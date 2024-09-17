@@ -1,0 +1,7 @@
+linea1 	 Escribo primera del archivo
+
+
+linea2 	 Escribo segunda linea del archivito
+
+
+Hola ramonaaaaaaaaaaaaaaaaaaaaaaaaaaaa
