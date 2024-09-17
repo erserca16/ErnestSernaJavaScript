@@ -1,9 +1,0 @@
-linea1 	 HOla
-
-
-linea2 	 Hola doble
-
-
-linea3 	 PRUEBO TERCERA linea
-
-
