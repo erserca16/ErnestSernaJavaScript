@@ -1,0 +1,7 @@
+PIZZERIA MISLATA 
+Resumen del pedido: 
+Pizza nº 1: Ingredientes=[Salsa de tomate, bacon, jamón, queso], precio=10.99, calorias=800
+Pizza nº 2: Ingredientes=[Salsa de tomate, pepperoni, queso], precio=11.5, calorias=600
+Pizza nº 3: Ingredientes=[Salsa de tomate, cebolla, champiñones, mozzarella], precio=13.25, calorias=580
+Precio total del pedido: 35.74
+Número total de ingredientes únicos: 8
